@@ -3,9 +3,11 @@
 
 
 Las Tecnologías que Manejo son:
+
 JavaScript HTML5 CSS Node.js Java Python Django PostgreSQL MongoDB MySQL
 
 Contacta conmigo
+santiagomaza300@gmail.com
 <!--
 **MANASES200/MANASES200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
