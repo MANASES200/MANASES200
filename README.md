@@ -1,5 +1,11 @@
-### Hi there 👋
+### ¡Hola! Soy Santiago Maza 👋
 
+
+
+Las Tecnologías que Manejo son:
+JavaScript HTML5 CSS Node.js Java Python Django PostgreSQL MongoDB MySQL
+
+Contacta conmigo
 <!--
 **MANASES200/MANASES200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
