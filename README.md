@@ -5,14 +5,23 @@
 Las Tecnologías que Manejo son:
 
 JavaScript 
+
 HTML5 
+
 CSS 
+
 Node.js 
+
 Java 
+
 Python 
+
 Django 
+
 PostgreSQL 
+
 MongoDB 
+
 MySQL
 
 Contacta conmigo
